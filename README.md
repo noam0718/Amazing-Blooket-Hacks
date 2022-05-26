@@ -2,4 +2,4 @@ Hello! I'm Noam and I made these blooket hacks! I love making hacks for you guys
 
 javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0 
 
-Enjoy!
+Enjoy! (also sometimes these hacks don't work but they usually start working again from 1-7 days)
